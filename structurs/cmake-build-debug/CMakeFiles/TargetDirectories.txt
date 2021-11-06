@@ -1,0 +1,3 @@
+/home/lumer/CLionProjects/system-dev-mdk/structurs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lumer/CLionProjects/system-dev-mdk/structurs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lumer/CLionProjects/system-dev-mdk/structurs/cmake-build-debug/CMakeFiles/structurs.dir

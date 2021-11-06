@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/structurs.dir/main.cpp.o -o structurs 
